@@ -12,8 +12,8 @@ Runtime: ~2:55 of animation plus four interactive moments:
 
 ## Current state
 
-- **Offline.** GitHub Pages is switched off and this repo is **private** (taken down on 1 Oct 2026 at George's request).
-- Old public URL (now 404): https://georgiealtmann.github.io/latest-model/
+- **Online.** Repo is public (unlisted) and GitHub Pages is on (re-published 2 Oct 2026 at George's request).
+- URL: https://georgiealtmann.github.io/latest-model/
 - A copy also exists as a Claude artifact: https://claude.ai/artifact/TtFqnt5bKxUQ9dUCH7ZRcC (sharing is controlled from that page's Share menu).
 
 ## Turn the website back ON
